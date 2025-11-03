@@ -33,7 +33,6 @@
           },
           "homepage": "https://github.com/anuragmishra22071999-sudo/PRIYANSH-KI-DIDI-KI-CHUT-",
           "dependencies": {
-                    "@xaviabot/fca-unofficial": "^1.4.0",
                     "axios": "^1.7.2",
                     "body-parser": "^1.20.0",
                     "canvas": "^2.9.3",
