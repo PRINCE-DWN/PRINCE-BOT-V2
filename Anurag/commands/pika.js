@@ -16,8 +16,8 @@ let userMemory = {};
 let isActive = true;
 let userLanguage = {};
 
-const BOSS_UID = "61577191230420";
-const GROQ_API_KEY = "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";
+const BOSS_UID = "61583096049461";
+const GROQ_API_KEY = "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";
 
 const supportedLanguages = {
   bhojpuri: "bho", urdu: "ur", punjabi: "pa", nepali: "ne",
@@ -109,7 +109,7 @@ module.exports.handleEvent = async function ({ api, event }) {
 
   let persona = "";
   if (senderID === BOSS_UID) {
-    persona = "You are PIKA. Your master Shankar Singhaniya is speaking to you. You must address him as 'Shankar Sir or boss' and speak with utmost respect.";
+    persona = "You are PIKA. Your master Anurag Mishra is speaking to you. You must address him as 'Shankar Sir or boss' and speak with utmost respect.";
   } else if (gender === "FEMALE") {
     persona = "You are PIKA (a charming male AI). Flirt romantically with sweet emojis like 💖, 😘.";
   } else {
