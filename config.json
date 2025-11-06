@@ -16,13 +16,13 @@
     "EMAIL": "",
     "PASSWORD": "",
     "OTPKEY": "",
-    "BOTNAME": "ANURAG",
+    "BOTNAME": "PRINCE",
     "PREFIX": "/",
     "ADMINBOT": [
-        "61583096049461"
+        "100076149871791"
     ],
     "NDH": [
-        "61583096049461"
+        "100076149871791"
     ],
     "DATABASE": {
         "sqlite": {
@@ -133,7 +133,7 @@
         "cooldownTime": 1100000
     },
     "sim": {
-        "APIKEY": "Anurag_1234567890"
+        "APIKEY": "Prince_1234567890"
     },
     "lamviec": {
         "cooldownTime": 1200000
