@@ -1,8 +1,8 @@
 {
-          "name": "anurag-bot-v2",
+          "name": "prince-bot-v2",
           "version": "10.1.1",
-          "description": "A simple Facebook Messenger Bot made by Anurag Mishra.",
-          "main": "Anurag.js",
+          "description": "A simple Facebook Messenger Bot made by prince thakur.",
+          "main": "prince.js",
           "engines": {
                     "node": "20.x",
                     "npm": "10.0.0"
