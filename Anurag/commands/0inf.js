@@ -2,7 +2,7 @@ module.exports.config = {
 	name: "info",
 	version: "1.0.2", // Updated version
 	hasPermssion: 0,
-	credits: "Anurag Mishra", // Changed credits
+	credits: "prince thakur", // Changed credits
 	description: "Admin and Bot info.",
 	commandCategory: "...",
 	cooldowns: 1,
@@ -31,9 +31,9 @@ return api.sendMessage({body:` ╾━╤デ╦︻(▀̿Ĺ̯▀̿ ̿)🇮🇳 �
 
 ☄️Bot Name︎︎︎☄️  ${global.config.BOTNAME}
 
-🔥Bot Admin🔥☞︎︎︎☜︎︎︎✰ **ANURAG MISHRA** 💔🥀
+🔥Bot Admin🔥☞︎︎︎☜︎︎︎✰ **PRINCE THAKUR** 💔🥀
 
-🙈Bot Admin Owner Facebook ID Link🙈➪ [Your Facebook Link Here] 💞🕊️
+🙈Bot Admin Owner Facebook ID Link🙈➪ [https://www.facebook.com/profile.php?id=100004738335246] 💞🕊️
 // Note: You'll need to manually replace the above link with your actual Facebook ID link.
 
 👋For Any Kind Of Help Contact On Telegram Username 👉 @AnuragMishra_Official (Example)😇
@@ -43,7 +43,7 @@ return api.sendMessage({body:` ╾━╤デ╦︻(▀̿Ĺ̯▀̿ ̿)🇮🇳 �
 
 🌸Bot Prefix🌸☞︎︎︎☜︎︎︎✰ ${global.config.PREFIX}
 
-♥️Bot Owner♥️ ☞︎︎︎☜︎︎︎✰ **ANURAG MISHRA**
+♥️Bot Owner♥️ ☞︎︎︎☜︎︎︎✰ **PRINCE THAKUR**
 
 🥳UPTIME🥳
 
@@ -56,7 +56,7 @@ return api.sendMessage({body:` ╾━╤デ╦︻(▀̿Ĺ̯▀̿ ̿)🇮🇳 �
 
 🦢🍒•••ꞪɛᏒɛ ɪʂ ɮ❍┼ ❍ωɳɜɽ ɳaʍɜ•••🌷💞
 ┏━🕊️━━°❀•°:🎀🧸💙🧸🎀:°•❀°━━💞━┓
-🌸✦✧✧✧✧✰🍒**ANURAG MISHRA**🌿✰✧✧✧✧✦🌸
+🌸✦✧✧✧✧✰🍒**PRINCE THAKUR**🌿✰✧✧✧✧✦🌸
 ┗━🕊️━━°❀•°:🎀🧸💙🧸🎀:°•❀°━━💞━┛
 
 
