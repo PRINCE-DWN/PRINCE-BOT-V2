@@ -6,7 +6,7 @@ module.exports.config = {
 name: 'autosent',
 version: '10.02',
 hasPermssion: 0,
-credits: 'SUSHIL YADAV', // Pehle code ka credit
+credits: 'PRINCE THAKUR', // Pehle code ka credit
 description: 'Set Karne Ke Bad Automatically Msg Send Karega',
 commandCategory: 'group messenger',
 usages: '[]',
